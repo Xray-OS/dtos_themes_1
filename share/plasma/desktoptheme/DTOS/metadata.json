@@ -1,0 +1,25 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "xray_os@proton.me",
+                "Name": "Xray_OS Visual Design Group",
+                "Name[es]": "El grupo de diseño visual de Xray_OS",
+                "Name[zh_TW]": "Xray_OS VDG 視覺設計組"
+            }
+        ],
+        "Category": "",
+        "Description": "DTOS_mini by Angel Gustavo Lopez VDG",
+        "Description[es]": "DTOS_mini, por Xray_OS VDG",
+        "Description[zh_TW]": "由 Xray_OS VDG 設計的 DTOS_mini",
+        "EnabledByDefault": true,
+        "Id": "DTOS_mini",
+        "License": "LGPL",
+        "Name": "DTOS_mini",
+        "Name[es]": "DTOS_mini",
+        "Name[zh_TW]": "DTOS_mini",
+        "Version": "6.0.0",
+        "Website": "https://plasma.kde.org"
+    },
+    "X-Plasma-API": "5.0"
+}

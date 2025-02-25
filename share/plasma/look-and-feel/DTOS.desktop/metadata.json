@@ -1,0 +1,23 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "xray_os@proton.me",
+                "Name": "Xray_OS Visual Design Group",
+                "Name[es]": "El grupo de diseño visual de Xray_OS",
+                "Name[zh_TW]": "test Visual Design Group"
+            }
+        ],
+        "Category": "",
+        "Description": "DTOS by Angel Gustavo Lopez",
+        "Description[es]": "DTOS, por Xray_OS VDG",
+        "Description[zh_TW]": "由 Xray_OS VDG 設計的 DTOS",
+        "Id": "DTOS.desktop",
+        "License": "GPLv2+",
+        "Name": "DTOS",
+        "Name[es]": "DTOS",
+        "Name[zh_TW]": "DTOS",
+        "Website": "https://www.kde.org"
+    }
+}
