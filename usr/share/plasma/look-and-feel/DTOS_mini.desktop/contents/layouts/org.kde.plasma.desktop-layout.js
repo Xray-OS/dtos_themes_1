@@ -49,7 +49,7 @@ launcher.writeConfig("icon", "DT_OS-logo");
 // // Adding Icon Tasks
 var iconTasks = panel.addWidget("org.kde.plasma.icontasks");
 iconTasks.currentConfigGroup = ["General"];
-iconTasks.writeConfig("launchers", "file:///usr/share/applications/org.kde.discover.desktop,file:///usr/share/applications/org.kde.dolphin.desktop,file:///usr/share/applications/brave-browser.desktop");
+iconTasks.writeConfig("launchers", "file:///usr/share/applications/org.kde.discover.desktop,file:///usr/share/applications/org.kde.dolphin.desktop,file:///usr/share/applications/floorp.desktop");
 
 // Another Panel Spacer
 panel.addWidget("org.kde.plasma.panelspacer")
